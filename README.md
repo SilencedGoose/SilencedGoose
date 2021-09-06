@@ -27,7 +27,11 @@
 </ul>
 
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=animatorofsouls&theme=shades-of-purple" alt="GitHub Stats"></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=animatorofsouls&theme=shades-of-purple" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animatorofsouls&layout=compact&theme=shades-of-purple" alt="Language Stats">     
+</p>
+
 
 
 
