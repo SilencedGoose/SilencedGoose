@@ -23,6 +23,7 @@
 
 <h3>Recent Projects</h3>
 <ul>
+  <li><a href="https://github.com/AnimatorOfSouls/Team-News">Team News - Stay updated with news near your team during lockdown</a></li>
   <li><a href="https://github.com/AnimatorOfSouls/Inferium-Calculator">Mystical Agriculture Essence Crafting Cost Calculator</a></li>
   <li><a href="https://github.com/AnimatorOfSouls/Blahaj-Voyage">Blahaj Voyage - A text-based adventure game</a></li>
 </ul>
