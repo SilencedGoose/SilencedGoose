@@ -1,7 +1,7 @@
 <img src="https://github.com/AnimatorOfSouls/AnimatorOfSouls/blob/main/GitHub%20Banner.png" alt="GitHub README Banner">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/solaris-viesseri-48237b199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/solaris-li-48237b199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://ko-fi.com/animatorofsouls"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/animatorofsouls/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.youtube.com/channel/UCxngNAZzSpYnb5527YyGYPQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
