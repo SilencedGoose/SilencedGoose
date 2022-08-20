@@ -18,7 +18,7 @@
 
 <h3>Heyo 👋</h3>
 <p>
-  Welcome to my profile! I'm Solaris, a 3rd year Computing Science student. I'm currently working on some of my side projects.
+  Welcome to my profile! I'm Solaris, a 4th year Computing Science student. I'm currently working on some of my side projects.
 </p>
 
 <h3>Recent Projects</h3>
