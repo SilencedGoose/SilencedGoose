@@ -11,7 +11,7 @@
   <a href="https://visitor-badge.laobi.icu/badge?page_id=SilencedGoose.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=SilencedGoose.visitor-badge&title=Visitors&color=purple" align="center" alt="Visitors"></a> 
   
   <br>
-  <a href="https://solarisli.dev/"><p align="center">🖥️ Check out my website!</p></a>
+  <a href="https://solarisli.dev/">🖥️ Check out my website!</a>
 </p>
 
 <hr>
