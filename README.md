@@ -18,7 +18,7 @@
 
 <h3>Heyo 👋</h3>
 <p>
-  Welcome to my profile! I'm Solaris, a 4th year Computing Science student. I'm currently going through 
+  Welcome to my profile! I'm Solaris, a 5th year Computing Science student. I'm currently going through 
   <a href="https://www.theodinproject.com/">The Odin Project</a>
    to learn Web Development.
 </p>
