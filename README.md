@@ -2,9 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/solaris-li-48237b199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://ko-fi.com/animatorofsouls"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/animatorofsouls/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://www.youtube.com/channel/UCxngNAZzSpYnb5527YyGYPQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/@SilencedGoose"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
   <a href="mailto:project.ocearia@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   
   <br>
@@ -33,8 +31,8 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animatorofsouls&theme=shades-of-purple" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animatorofsouls&layout=compact&theme=shades-of-purple" alt="Language Stats">     
+  <img src="https://github-readme-stats.vercel.app/api?username=silencedgoose&theme=shades-of-purple" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silencedgoose&layout=compact&theme=shades-of-purple" alt="Language Stats">     
 </p>
 
 
