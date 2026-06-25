@@ -9,7 +9,7 @@
   <a href="https://visitor-badge.laobi.icu/badge?page_id=animatorofsouls.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=animatorofsouls.visitor-badge&title=Visitors&color=purple" align="center" alt="Visitors"></a> 
   
   <br>
-  <a href="https://solarisli.dev/">🖥️ Check out my website!</a>
+  <a href="https://solarisli.dev/">🖥️ Check out my website! (currently broken sorry)</a>
 </p>
 
 <hr>
